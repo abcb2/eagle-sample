@@ -4,9 +4,12 @@
       slide
         h1 こんにちはEagle!
         p はじめてのEagle
-      slide(enter="fadeIn")
+      slide(enter="bounceInRight")
         h2 Yes Eagle!!
         p very cool!!
+      slide(enter="slideInUp")
+        h2 slide in up
+        p あいうえお
 </template>
 
 <script>
