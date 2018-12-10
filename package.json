@@ -1,0 +1,36 @@
+{
+  "name": "eagle-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcb2/eagle-sample.git"
+  },
+  "keywords": [],
+  "author": "Kouji Watanabe <kouji.wtnb@gmail.com> (https://abcb2.github.io/blog)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcb2/eagle-sample/issues"
+  },
+  "homepage": "https://github.com/abcb2/eagle-sample#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "eagle.js": "^0.4.1",
+    "highlight.js": "^9.13.1",
+    "vue": "^2.5.19"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.2.0",
+    "node-sass": "^4.11.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.1.0",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.19"
+  }
+}
